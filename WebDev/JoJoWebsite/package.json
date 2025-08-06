@@ -1,0 +1,20 @@
+{
+  "name": "jojowebsite",
+  "version": "1.0.0",
+  "description": "My own personal website",
+  "homepage": "https://github.com/TrueSpark112/Projects/tree/main#readme",
+  "bugs": {
+    "url": "https://github.com/TrueSpark112/Projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrueSpark112/Projects.git#main"
+  },
+  "license": "ISC",
+  "author": "Jojo Torres Molina",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
